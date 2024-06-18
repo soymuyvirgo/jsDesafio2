@@ -1,0 +1,28 @@
+/* Clases */
+.container {
+    text-align: center;
+    border: 1px solid #000;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+select {
+    font-size: 18px;
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* IDs */
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
